@@ -11,7 +11,7 @@
 
 ## Dashboard Preview
 
-![Excel Dashboard 1](excel_dashboard_1.png)
+![Excel Dashboard 1](Excel_Dashboard_1.png)
 
 ---
 
