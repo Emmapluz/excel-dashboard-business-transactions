@@ -100,9 +100,7 @@ dominates cost structure.
 ✅ Slicers for dynamic filtering
 ✅ Dashboard sheet design
 ✅ Data labels and formatting
-✅ Multiple chart types:
-Column, Horizontal Bar,
-Area, Multi-line, Pie
+✅ Multiple chart types: Column, Horizontal Bar, Area, Multi-line, Pie
 
 ```
 
