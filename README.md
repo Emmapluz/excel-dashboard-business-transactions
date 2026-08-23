@@ -23,8 +23,7 @@ revenue, expenses and profit across
 payment methods, product lines, regions, 
 categories and departments. Built using 
 5 pivot tables connected to 5 different 
-chart types with a slicer for dynamic 
-filtering.
+chart types.
 
 ---
 
@@ -97,7 +96,6 @@ dominates cost structure.
 
 ✅ Pivot Tables (5 tables)
 ✅ Pivot Charts (5 chart types)
-✅ Slicers for dynamic filtering
 ✅ Dashboard sheet design
 ✅ Data labels and formatting
 ✅ Multiple chart types: Column, Horizontal Bar, Area, Multi-line, Pie
